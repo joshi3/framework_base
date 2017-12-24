@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="fp_fail">指纹验证失败</string>
+    <string name="fp_fail_warning">指纹验证失败次数已满5次, 请输入PIN码解锁！</string>
+</resources>
